@@ -29,8 +29,9 @@ Gameplay (YouTube link)
 
 We are still working on our corporate contacts!
 
+## Subscribe
 
-Meanwhile, leave your email for us to contact you.
+Leave your email for us to contact you.
 
 <style>
     @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700,700i&subset=cyrillic,cyrillic-ext,latin-ext');
@@ -82,7 +83,7 @@ Meanwhile, leave your email for us to contact you.
         padding: 20px;
         width: 400px !important;
         border: 1px solid #363636 !important;
-        background: #222222 none !important;
+        background: #3498DB none !important;
         border-radius: 0px !important;
         box-sizing: border-box !important;
     }
@@ -207,7 +208,7 @@ Meanwhile, leave your email for us to contact you.
         width: 100% !important;
         border-radius: 5px !important;
         height: 40px !important;
-        background-color: #fa5c5c !important;
+        background-color: #F04736 !important;
         color: #FFFFFF !important;
         font-family: 'Lato', sans-serif !important;
         font-size: 16px !important;
@@ -316,15 +317,15 @@ Meanwhile, leave your email for us to contact you.
     <div class="ml-vertical-align-center">
         <div class="subscribe-form ml-block-success" style="display:none">
             <div class="form-section">
-                <h4>Pixel Express</h4>
+                <h4>Newsletter</h4>
                 <p>Thank you! You have successfully subscribed to our newsletter.</p>
             </div>
         </div>
         <form class="ml-block-form" action="https://landing.mailerlite.com/webforms/submit/m9j8i2" data-id="1007712" data-code="m9j8i2" method="POST" target="_blank">
             <div class="subscribe-form horizontal">
                 <div class="form-section mb10">
-                    <h4>Pixel Express</h4>
-                    <p>Signup for news and special offers!</p>
+                    <h4>Newsletter</h4>
+                    <p>Signup for news and special offers (freebies?)</p>
                 </div>
                 <div class="form-section horizontal">
                     <div class="form-group ml-field-email ml-validate-required ml-validate-email">
