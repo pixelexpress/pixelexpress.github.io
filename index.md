@@ -19,7 +19,13 @@ Gameplay (YouTube link)
 
 ## Team
 
-- ![Face image](img/placeholder.jpg) Andriy Bychkovskyi
+![Face image](img/placeholder.jpeg) Andriy Bychkovskyi - project management, development
+
+![Face image](img/placeholder.jpeg) Serhii Buriak - graphics
+
+![Face image](img/placeholder.jpeg) Pavlo Shelyazhenko- development
+
+![Face image](img/placeholder.jpeg) Anonimous Anonymous - sound
 
 ## Contacts
 
