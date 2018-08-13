@@ -7,13 +7,11 @@ div#banner {
   visibility: hidden;
 }
 
-#wrapper section table {
-  td {
+td {
   border-bottom:0px solid #e5e5e5;
   border-right: 0px solid #ffcc00;
 
   &:first-child {
     border-left: 0px solid #ffcc00;
   }
-}
 }
