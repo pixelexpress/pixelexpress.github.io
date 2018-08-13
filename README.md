@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## About
 
-You can use the [editor on GitHub](https://github.com/pixelexpress/pixelexpress.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Pixel Express is a game about managing trains. It can be classified as an arcade game with pixel-art graphics. Each chapter has its own setting. For example, first chapter is set in Wild West.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Screenshots
+![Screenshot 1](img/screenshot1.png)
 
-### Markdown
+### Gameplay (YouTube link)
+[![Gameplay Video](https://img.youtube.com/vi/7mKPXDb05d8/0.jpg)](https://www.youtube.com/watch?v=7mKPXDb05d8)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## FAQ
 
-```markdown
-Syntax highlighted code block
+- What is the current state of the game?
+  - In active development. No public build available yet.
+- What are the target platforms for the game?
+  - All popular desktop and mobile platforms (Win, Mac, GNU/Linux, Android, iOS).
 
-# Header 1
-## Header 2
-### Header 3
+## Contacts
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pixelexpress/pixelexpress.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+We are still working on our corporate contacts!
