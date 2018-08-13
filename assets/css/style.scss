@@ -8,15 +8,7 @@ div#banner {
 }
 
 #wrapper section table {
-  border-collapse: collapse;
-  tbody {
-    border-collapse: collapse;
-    tr {
-      border-collapse: collapse;
-      td {
-        border-left-width: 0;
-        border-collapse: collapse;
-      }
-    }
+  td {
+    border:0px !important;
   }
 }
