@@ -17,6 +17,10 @@ Gameplay (YouTube link)
 - What are the target platforms for the game?
   - All popular desktop and mobile platforms (Win, Mac, GNU/Linux, Android, iOS).
 
+## Team
+
+- ![Face image](img/placeholder.jpg) Andriy Bychkovskyi
+
 ## Contacts
 
 We are still working on our corporate contacts!
