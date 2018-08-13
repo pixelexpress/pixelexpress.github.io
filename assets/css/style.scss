@@ -3,6 +3,11 @@
 
 @import "{{ site.theme }}";
 
-a.button fork {
-  visibility: hidden;
+#banner {
+  a.fork {
+    visibility: hidden;
+  }
+  #logo {
+    background: url(../img/main icon.png);
+  }
 }
