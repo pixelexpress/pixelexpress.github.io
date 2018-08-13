@@ -8,5 +8,11 @@ div#banner {
 }
 
 #wrapper section table {
-  border: none !important;
+  border-collapse: collapse;
+  tr {
+    border-collapse: collapse;
+    td {
+      border-collapse: collapse;
+    }
+  }
 }
