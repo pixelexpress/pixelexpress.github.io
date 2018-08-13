@@ -25,10 +25,6 @@ Gameplay (YouTube link)
 ![Face image](img/placeholder.jpeg) | Pavlo Shelyazhenko - development
 ![Face image](img/placeholder.jpeg) | Anonimous Anonymous - sound
 
-# Contacts
-
-We are still working on our corporate contacts!
-
 # Subscribe
 
 Leave your email for us to contact you.
