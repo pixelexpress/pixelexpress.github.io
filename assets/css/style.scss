@@ -3,11 +3,6 @@
 
 @import "{{ site.theme }}";
 
-#banner {
-  a.fork {
-    visibility: hidden;
-  }
-  #logo {
-    background: url(../../img/mainicon.png);
-  }
+div#banner {
+  visibility: hidden;
 }
