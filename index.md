@@ -11,8 +11,6 @@ Pixel Express is a game about managing trains. It can be described as an arcade 
 [![Screenshot 6](img/preview_screenshot6.png)](img/screenshot6.png)
 
 
-Trailer (YouTube link)
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FdudHdZYh74?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
 
 # FAQ
