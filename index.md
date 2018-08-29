@@ -2,7 +2,7 @@
 
 Pixel Express is an arcade game about trains. Operate railroad to deliver cargo and complete the production chain. Earn money and build the town of your dreams. As you progress you will be moving through the railroad history. Starting from Wild West times and ending in a futuristic marsian world.
 
-[![Available on Steam](img/available.jpg)](https://store.steampowered.com/app/925980/Pixel_Express/)
+[![Available on Steam](img/wishlist.jpg)](https://store.steampowered.com/app/925980/Pixel_Express/)
 
 # Trailer
 
@@ -356,5 +356,4 @@ Leave your email for us to contact you.
 # Contacts
 
 <bxaxvx@gmail.com>
-
 <https://www.facebook.com/pixelexpressgame>
