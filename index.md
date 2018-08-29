@@ -18,11 +18,11 @@ Pixel Express is an arcade game about trains. Operate railroad to deliver cargo 
 
 # Team
 
----------------------------------------------------------------------: | -------------------------------------
-Andriy&nbsp;Bychkovskyi<br/>project&nbsp;management,&nbsp;development  | True indie game developer (self-title). Released roguelike game called 'Undervault' in solo. Has a strong belief that one day indie games will bring him a great success (mom will be proud).
-Sergei&nbsp;"Cellinger"&nbsp;Buriak<br/>graphics                       | Rising star in Pixel Art. 'Pixel Express' is his first real gamedev project, but he is already showing great results.
-Pavlo&nbsp;Shelyazhenko<br/>development                                | Game development was always a hobby of his, he develops and self-publishes small games. The one worth checking is Move the Box - a small match-3 puzzle game.
-8-BITchin’tendo<br/>sound                                              | Polish underground chiptune musician. Also known as Glitch.
+| ---------------------------------------------------------------------: | -------------------------------------
+| Andriy&nbsp;Bychkovskyi<br/>project&nbsp;management,&nbsp;development  | True indie game developer (self-title). Released roguelike game called 'Undervault' in solo. Has a strong belief that one day indie games will bring him a great success (mom will be proud).
+| Sergei&nbsp;"Cellinger"&nbsp;Buriak<br/>graphics                       | Rising star in Pixel Art. 'Pixel Express' is his first real gamedev project, but he is already showing great results.
+| Pavlo&nbsp;Shelyazhenko<br/>development                                | Game development was always a hobby of his, he develops and self-publishes small games. The one worth checking is Move the Box - a small match-3 puzzle game.
+| 8-BITchin’tendo<br/>sound                                              | Polish underground chiptune musician. Also known as Glitch.
 
 # Subscribe
 
