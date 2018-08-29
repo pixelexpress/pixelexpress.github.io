@@ -355,5 +355,7 @@ Leave your email for us to contact you.
 
 # Contacts
 
-bxaxvx@gmail.com
-https://www.facebook.com/pixelexpressgame
+(bxaxvx@gmail.com)
+
+
+(https://www.facebook.com/pixelexpressgame)
