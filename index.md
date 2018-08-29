@@ -10,20 +10,14 @@ Pixel Express is a game about managing trains. It can be described as an arcade 
 [![Screenshot 5](img/preview_screenshot5.png)](img/screenshot5.png)
 [![Screenshot 6](img/preview_screenshot6.png)](img/screenshot6.png)
 
+# Trailer
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FdudHdZYh74?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
-
-# FAQ
-
-- What is the current state of the game?
-  - In active development. No public build available yet.
-- What are the target platforms for the game?
-  - All the popular desktop and mobile platforms (Win, Mac, GNU/Linux, Android, iOS).
 
 # Team
 
 --------------------------------------------------------------:| -------------------------------------
-Andriy Bychkovskyi                                             | True indie game developer (self-title). Released roguelike game called 'Undervault' in solo. Has a strong belief that one day indie games will bring him a great success (mom will be proud).
+Andriy&nbsp;Bychkovskyi                                        | True indie game developer (self-title). Released roguelike game called 'Undervault' in solo. Has a strong belief that one day indie games will bring him a great success (mom will be proud).
 project management, development                                |
 Sergei Buriak (a.k.a Cellinger)graphics                        | Uprising star in Pixel Art. 'Pixel Express' is his first real gamedev project, but he is already showing great results.
 Pavlo Shelyazhenko             development                     | Game development was always a hobby of his, he develops and self-publishes small games. The one worth checking is Move the Box - a small match-3 puzzle game.
